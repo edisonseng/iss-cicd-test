@@ -1,0 +1,2 @@
+name: edison
+on: workflow_dispatch
